@@ -8,4 +8,4 @@ Classify documents using Python based on SVM and TF-IDF.
     - The .data files are formatted "docIdx wordIdx count". 
     - The .label files are simply a list of label id's. 
     - The .map files map from label id's to label names.
-- This demo will gives a **accuracy** near **81.3991% (6109/7505)**.
+- This demo will give a **accuracy** near **81.3991% (6109/7505)**.
